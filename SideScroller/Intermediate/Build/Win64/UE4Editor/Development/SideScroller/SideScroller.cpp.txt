@@ -1,2 +1,0 @@
-D:\2003505\TechLessons\SideScroller\Intermediate\Build\Win64\UE4Editor\Development\SideScroller\Definitions.SideScroller.h
-D:\2003505\TechLessons\SideScroller\Source\SideScroller\SideScroller.h
