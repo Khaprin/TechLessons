@@ -1,0 +1,2 @@
+D:\2003505\TechLessons\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\2003505\TechLessons\MyProject\Source\MyProject\MyProject.h
